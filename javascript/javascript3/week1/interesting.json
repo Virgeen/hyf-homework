@@ -1,0 +1,15 @@
+[ { "our universe contain":
+    {
+        "Galaxies": { "Ambartsumian's Knot ": "= NGC 3561",
+             "Andromeda galaxy": "= NGC 0224", 
+             "Antennae Galaxies ": "= NGC 4038/9",
+             "Aquarius Dwarf":" = DDO 210"},
+             
+        "Stars": [ "Polaris", "Sirius", "Alpha Centauri System", "Betelgeuse","Rigel"],
+        "Black holes": {"Type" : ["Quasar", "Supermassive black hole","Hypercompact stellar system"]},
+        "Planets": [ "Aliutania", "Vostriurus","Cagorix","Ddolrinda" ,"Pulia","Diotania" ],
+        "Comets": ["COMET HALE-BOPP","COMET SWIFT-TUTTLE","COMET HYAKUTAKE","COMET HALLEY","COMET SHOEMAKER-LEVY 9"],
+        "meteors":["Alpha Centaurids", "Lyrids","Pi Puppids"]
+    }
+  }   
+]
